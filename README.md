@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # 🧠 StickyMind – Sticky Notes App
 
 **StickyMind** is a minimal, colorful, and responsive sticky notes app built with React and Tailwind CSS. It allows users to quickly add, view, and delete notes with persistent local storage. Includes a beautiful Masonry grid layout and dark mode support.

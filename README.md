@@ -42,7 +42,7 @@ cd stickymind-notes
 
 2. Install dependencies
 npm run dev
-
+```
 🧼 Future Ideas
 Sticky note editing
 
@@ -51,6 +51,6 @@ Sorting and filtering
 Reminder or due date for each note
 
 Drag-and-drop to rearrange notes
-```
+
 🔗 Live Preview
 https://sticky-notes-tan.vercel.app/

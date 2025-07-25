@@ -1,12 +1,54 @@
-# React + Vite
+# 🧠 StickyMind – Sticky Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**StickyMind** is a minimal, colorful, and responsive sticky notes app built with React and Tailwind CSS. It allows users to quickly add, view, and delete notes with persistent local storage. Includes a beautiful Masonry grid layout and dark mode support.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ✅ Add and delete sticky notes
+- 🎨 Random pastel colors (yellow, green, blue, pink, white, purple)
+- 🌙 Dark mode toggle using a custom hook
+- 🧱 Responsive Masonry grid layout
+- 💾 Save notes in localStorage (persistent on reload)
+- ⚡ Clean animations and transitions
+- 🎯 Mobile-friendly and fully responsive
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖥️ Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **Vite**
+- `localStorage` for saving notes
+- Custom `useDarkMode` hook for theme toggling
+
+---
+
+
+---
+
+## 🔧 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/stickymind-notes.git
+cd stickymind-notes
+
+
+2. Install dependencies
+npm run dev
+
+🧼 Future Ideas
+Sticky note editing
+
+Sorting and filtering
+
+Reminder or due date for each note
+
+Drag-and-drop to rearrange notes
+```
+🔗 Live Preview
+https://sticky-notes-tan.vercel.app/

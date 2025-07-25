@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="1366" height="768" alt="Screenshot 2025-07-26 015403" src="https://github.com/user-attachments/assets/4a9ca1dd-c4ab-460e-86df-aebdbcfd9c7a" />
 
 # 🧠 StickyMind – Sticky Notes App
 

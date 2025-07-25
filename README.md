@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot 2025-07-26 015403" src="https://github.com/user-attachments/assets/4a9ca1dd-c4ab-460e-86df-aebdbcfd9c7a" />
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/806932d4-e2f7-4b89-b109-3de2df4790c4" />
 
 # 🧠 StickyMind – Sticky Notes App
 
